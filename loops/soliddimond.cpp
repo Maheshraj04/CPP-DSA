@@ -19,5 +19,4 @@ cout << "Enter the number of rows: "; cin >> n;
               cout << "*";
                 cout << endl;                                                                                                                                }
 
-return 0;
-                                                                                                                                }
+return 0;                                                                                           }
